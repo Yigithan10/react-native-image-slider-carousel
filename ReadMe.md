@@ -6,7 +6,7 @@ My build versions:
 ## Installation
 
 ```bash
-  npm install react-native-image-slider-carousel
+npm install react-native-image-slider-carousel
 ```
 
 ## Doc
