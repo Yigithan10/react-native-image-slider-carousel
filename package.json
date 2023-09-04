@@ -1,0 +1,30 @@
+{
+  "name": "react-native-image-slider-carousel",
+  "version": "1.1.0",
+  "description": "React Native Image Slider and Carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yigithan10",
+  "license": "ISC",
+  "repository": "https://github.com/Yigithan10/react-native-image-slider-carousel",
+  "dependencies": {
+    "react-native-reanimated": "*"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-reanimated": "*"
+  },
+  "keywords": [
+    "react native",
+    "android",
+    "ios",
+    "react",
+    "native",
+    "image",
+    "slider",
+    "carousel"
+  ]
+}
